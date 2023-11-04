@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Conference/static/css/main.f914b04d.css",
-    "main.js": "/Conference/static/js/main.a58897bc.js",
-    "static/media/ICIRIAC 2022.pdf": "/Conference/static/media/ICIRIAC 2022.efba9c70158a1246a837.pdf",
-    "static/media/AIP.docx": "/Conference/static/media/AIP.a6db4067fe61581c3f30.docx",
-    "static/media/depttop.jpg": "/Conference/static/media/depttop.ca4742cd0f78b3f9a153.jpg",
-    "static/media/skcetLogo.png": "/Conference/static/media/skcetLogo.31d2bf13215ad9e10734.png",
-    "static/media/scopus.jpeg": "/Conference/static/media/scopus.73884da8574653f9db0f.jpeg",
-    "static/media/logo.png": "/Conference/static/media/logo.60220d3704523ab8152e.png",
-    "static/media/uni_logo.png": "/Conference/static/media/uni_logo.b3c1361cfe38129d90ee.png",
-    "static/media/clg_logo2.png": "/Conference/static/media/clg_logo2.181422d1382b461c528d.png",
-    "static/media/Muthiah.jpeg": "/Conference/static/media/Muthiah.2a3266d546bdb95efcee.jpeg",
-    "static/media/Anand_paul.jpeg": "/Conference/static/media/Anand_paul.3eda3f35c42f2cec3939.jpeg",
-    "static/media/AIP proceedings.jpeg": "/Conference/static/media/AIP proceedings.48f19b666c22ca4d0ba7.jpeg",
-    "index.html": "/Conference/index.html",
-    "main.f914b04d.css.map": "/Conference/static/css/main.f914b04d.css.map",
-    "main.a58897bc.js.map": "/Conference/static/js/main.a58897bc.js.map"
+    "main.css": "/www.iciriac.com/static/css/main.94e08c8c.css",
+    "main.js": "/www.iciriac.com/static/js/main.ec9d2cfe.js",
+    "static/media/ICIRIAC 2022.pdf": "/www.iciriac.com/static/media/ICIRIAC 2022.efba9c70158a1246a837.pdf",
+    "static/media/AIP.docx": "/www.iciriac.com/static/media/AIP.a6db4067fe61581c3f30.docx",
+    "static/media/depttop.jpg": "/www.iciriac.com/static/media/depttop.ca4742cd0f78b3f9a153.jpg",
+    "static/media/skcetLogo.png": "/www.iciriac.com/static/media/skcetLogo.31d2bf13215ad9e10734.png",
+    "static/media/scopus.jpeg": "/www.iciriac.com/static/media/scopus.73884da8574653f9db0f.jpeg",
+    "static/media/logo.png": "/www.iciriac.com/static/media/logo.60220d3704523ab8152e.png",
+    "static/media/uni_logo.png": "/www.iciriac.com/static/media/uni_logo.b3c1361cfe38129d90ee.png",
+    "static/media/clg_logo2.png": "/www.iciriac.com/static/media/clg_logo2.181422d1382b461c528d.png",
+    "static/media/Muthiah.jpeg": "/www.iciriac.com/static/media/Muthiah.2a3266d546bdb95efcee.jpeg",
+    "static/media/Anand_paul.jpeg": "/www.iciriac.com/static/media/Anand_paul.3eda3f35c42f2cec3939.jpeg",
+    "static/media/AIP proceedings.jpeg": "/www.iciriac.com/static/media/AIP proceedings.48f19b666c22ca4d0ba7.jpeg",
+    "index.html": "/www.iciriac.com/index.html",
+    "main.94e08c8c.css.map": "/www.iciriac.com/static/css/main.94e08c8c.css.map",
+    "main.ec9d2cfe.js.map": "/www.iciriac.com/static/js/main.ec9d2cfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.f914b04d.css",
-    "static/js/main.a58897bc.js"
+    "static/css/main.94e08c8c.css",
+    "static/js/main.ec9d2cfe.js"
   ]
 }
