@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2da7f0be.css",
-    "main.js": "/static/js/main.c36aee4e.js",
+    "main.js": "/static/js/main.a3f4fc40.js",
     "static/media/ICIRIAC.pdf": "/static/media/ICIRIAC.c8d998137d1414a31f60.pdf",
     "static/media/AIP.docx": "/static/media/AIP.a6db4067fe61581c3f30.docx",
     "static/media/depttop.jpg": "/static/media/depttop.ca4742cd0f78b3f9a153.jpg",
@@ -15,10 +15,10 @@
     "static/media/AIP proceedings.jpeg": "/static/media/AIP proceedings.48f19b666c22ca4d0ba7.jpeg",
     "index.html": "/index.html",
     "main.2da7f0be.css.map": "/static/css/main.2da7f0be.css.map",
-    "main.c36aee4e.js.map": "/static/js/main.c36aee4e.js.map"
+    "main.a3f4fc40.js.map": "/static/js/main.a3f4fc40.js.map"
   },
   "entrypoints": [
     "static/css/main.2da7f0be.css",
-    "static/js/main.c36aee4e.js"
+    "static/js/main.a3f4fc40.js"
   ]
 }
