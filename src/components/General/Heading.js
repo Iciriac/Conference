@@ -41,12 +41,14 @@ function Heading() {
                     <p className="text-[.7rem] font-medium tracking-[.5px]">in association with</p>
                     <div className="flex items-center">
                         <p className="text-l font-medium tracking-[2px] uppercase mb-[.5rem]">Kyungpook National University, <span className="capitalize">South Korea</span> </p>
+                        
                         <div>
                             <img className="h-[3rem] ml-[0] w-[3rem]" src={uniLogo} alt="logo" />
                         </div>
                     </div>
+                    <p className="text-l font-medium tracking-[2px]">2<sup>nd</sup> edition of</p>
                     <h1 className="italic text-[1.4rem] font-semibold w-[50rem] tracking-[1px] mb-[.5rem]">International Conference on Innovations in Robotics, Intelligent Automation and Control (ICIRIAC 2024)</h1>
-                    <p className="font-medium tracking-[2px] ">02<sup>nd</sup> February 2024</p>
+                    <p className="font-medium tracking-[2px] ">28<sup>th</sup> February 2024</p>
                 </div>
             </div>
         </div>

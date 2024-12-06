@@ -22,7 +22,7 @@ const Committe = () => {
                <CommitteeContent1 Title = "Chief Patron" Name="Smt. S. Malarvizhi" Designation="Managing Trustee" Organisation="Sri Krishna Instituions" Location="Coimbatore" />
                <CommitteeContent1 Title = "Patron" Name="Dr. J. Janet" Designation="Principal" Organisation="Sri Krishna College of Engineering and Technology" Location="Coimbatore" />
                <CommitteeContent1 Title = "Convener" Name="Dr. M. Lydia" Designation="Professor & Head" Dept = "Department of Mechatronics Engineering," Organisation="Sri Krishna College of Engineering and Technology" Location="Coimbatore" />
-               <CommitteeContent1 Title = "Coordinators" Name="Ms. K. Ananthi" Name1="Mr. S. Madhan Kumar," Designation="Assistant Professors" Dept = "Department of Mechatronics Engineering," Organisation="Sri Krishna College of Engineering and Technology" Location="Coimbatore" />
+               <CommitteeContent1 Title = "Coordinators" Name="Dr. K. Ananthi, Dr. J. Indirapriyadharshini and Mr. S. Madhankumar" Name2="Mr. S. Madhankumar," Designation="Assistant Professors" Dept = "Department of Mechatronics Engineering," Organisation="Sri Krishna College of Engineering and Technology" Location="Coimbatore" />
                <p className="p-5 mx-10 font-bold underline underline-offset-8 tracking-[1px]">Technical Committee Members</p>
                <p className="p-5 ml-[50px] mx-10 font-bold underline underline-offset-8 tracking-[1px]">International</p>
                <Technical Name="Mr. Binesh Kumar, Technical Project Lead, Atom Power Inc., Charlotte, USA."></Technical>
@@ -78,17 +78,17 @@ const Committe = () => {
                <Committemem Name="Dr. V. Narasimharaj, Associate Professor."></Committemem>
                <Committemem Name="Dr. R. Gopinathan, Associate Professor."></Committemem>
                <Committemem Name="Dr. S. Balasubramani, Assistant Professor."></Committemem>
+               <Committemem Name="Dr. M. Bhuvaneswari, Assistant Professor."></Committemem>
                <Committemem Name="Dr. R. Manikandan, Assistant Professor."></Committemem>
                <Committemem Name="Dr. G. Veerappan, Assistant Professor."></Committemem>
                <Committemem Name="Dr. L. Feroz Ali, Assistant Professor."></Committemem>
+               <Committemem Name = "Dr. S. Dinesh, Assistant Professor."></Committemem>
                <Committemem Name="Dr. N. Mithran, Assistant Professor."></Committemem>
                <Committemem Name="Dr. J. Justin Maria Hillary, Assistant Professor."></Committemem>
-               <Committemem Name="Dr. J. Indirapriyadharshini, Assistant Professor."></Committemem>
                <Committemem Name="Ms. S. Kannaki, Assistant Professor."></Committemem>
-               <Committemem Name="Ms. M. Bhuvaneswari, Assistant Professor."></Committemem>
                <Committemem Name="Ms. S. Nithya Priya, Assistant Professor."></Committemem>
-               <Committemem Name="Mr. S. Panneerselvam, Assistant Professor."></Committemem>
                <Committemem Name="Ms. R. Priyadharshini, Assistant Professor."></Committemem>
+               <Committemem Name="Mr. S. Panneerselvam, Assistant Professor."></Committemem>
                <Committemem Name="Mr. M. Vigneshwaran, Assistant Professor."></Committemem>
                <Committemem Name="Mr. T. Vignesh, Assistant Professor."></Committemem>
                <br></br>

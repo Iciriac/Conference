@@ -1,6 +1,6 @@
 import Heading from "../General/Heading";
 import Title from "../General/Title";
-import brochure from '../../Resources/ICIRIAC 2022.pdf';
+import brochure from '../../Resources/ICIRIAC.pdf';
 import template from '../../Resources/AIP.docx';
 const Downloads = () => {
 
@@ -15,7 +15,5 @@ const Downloads = () => {
             
         </div>
     );
-
 }
-
 export default Downloads;

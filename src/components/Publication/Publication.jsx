@@ -9,6 +9,11 @@ const Publication = () => {
         <div>
             <Heading />
             <Title title="Publication"/>
+            <p><center>
+              ICIRIAC 2022 Proceeding Link:
+            <a className="underline text-sky-500 " href="https://pubs.aip.org/aip/acp/issue/2914/1"> https://pubs.aip.org/aip/acp/issue/2914/1</a>
+            </center>
+              </p>
             <div className="my-[3rem] px-[5rem] text-center">
               <p className="mb-[1rem]">All registered and presented papers will be published in AIP Conference Proceedings</p>
               <div className="flex flex-row mx-[300px]">

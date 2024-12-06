@@ -11,19 +11,22 @@ const Dates = () => {
             
                 <div className="flex justify-between w-[24rem]">
                     <p>Paper Submission:</p>
-                    <div><span className="outline-none">10.01.2024</span></div>
+                    <s>20.01.2024</s>
+                    <div><span className="outline-none">31.01.2024</span></div>
                 </div>
                 <div className="flex justify-between w-[24rem]">
                     <p>Paper Acceptance:</p>
-                    <p>18.01.2024</p>
+                    <s>03.02.2024</s>
+                    <p>10.02.2024</p>
                 </div>
                 <div className="flex justify-between w-[24rem]">
                     <p>Registration:</p>
-                    <p>21.01.2024</p>
+                    <s>05.02.2024</s>
+                    <p>15.02.2024</p>
                 </div>
                 <div className="flex justify-between w-[24rem]">
                     <p>Conference Date:</p>
-                    <p>02.02.2024</p>
+                    <p>28.02.2024</p>
                 </div>
             </div>
             

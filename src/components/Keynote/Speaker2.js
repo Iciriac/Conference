@@ -1,5 +1,5 @@
 import react from "react";
-import muthiah from '../../Resources/Muthiah.jpeg';
+import muthiah from '../../Resources/NirmalKrishna.jpeg';
 
 function Speaker2() {
     return (
@@ -16,12 +16,12 @@ function Speaker2() {
                 <span>{props.Location}.</span>
                 <img className="w-[400px] h-[400px]"src={props.image}></img> */}
                 <div>
-                    <img className="float-left w-[350px] object-cover h-[400px] border-black"src={muthiah}></img>
-                    <div className="float-right mt-[100px] mr-[60px]">
-                        <div className="font-semibold">Mr. Muthiah,</div>
-                        <div>Computation Engineer (Automotive),</div>
-                        <div>Akka Technologies,</div>
-                        <div>Germany.</div>
+                    <img className="float-left w-[250px] object-cover h-[300px] border-black"src={muthiah}></img>
+                    <div className="float-right mt-[50px] mr-[350px]">
+                        <div className="font-semibold">Mr. Nirmal Krishna R,</div>
+                        <div>R&D Engineer, Automation Control,</div>
+                        <div>Nordic Semiconductor,</div>
+                        <div>Norway.</div>
                     </div>
 
                 </div>
