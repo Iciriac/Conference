@@ -11,7 +11,7 @@ const Registration = () => {
                 <h3 className="mb-[1rem]"> <b>Registration Fee Details</b> </h3>
                 <div>
                     <ul>
-                        <li>Indian Authors : ₹ 9000 per manuscript</li>
+                        <li>Indian Authors : ₹ 10500 per manuscript</li>
                         <li>Indian Listeners : ₹ 3000</li>
                         <li>Foreign Authors : $ 150 per manuscript</li>
                         <li>Foreign Listener : $ 50</li>

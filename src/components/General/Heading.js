@@ -29,7 +29,7 @@ function Heading() {
                     </div>
                     <div>
                         <h1 className="text-xl font-semibold uppercase tracking-[2px]">Sri Krishna College of Engineering and Technology</h1>
-                        <p className="text-[.65rem] font-medium tracking-[.5px]">An Autonomous Institution, Accredited by NAAC with 'A' Grade</p>
+                        <p className="text-[.65rem] font-medium tracking-[.5px]">An Autonomous Institution, Affiliated to Anna University, Chennai, Accredited by NAAC with 'A++' Grade</p>
                         <p className="text-[.65rem] font-medium tracking-[.5px]"> Coimbatore, Tamilnadu, India</p>
                     </div>
                     <div>
@@ -46,9 +46,9 @@ function Heading() {
                             <img className="h-[3rem] ml-[0] w-[3rem]" src={uniLogo} alt="logo" />
                         </div>
                     </div>
-                    <p className="text-l font-medium tracking-[2px]">2<sup>nd</sup> edition of</p>
-                    <h1 className="italic text-[1.4rem] font-semibold w-[50rem] tracking-[1px] mb-[.5rem]">International Conference on Innovations in Robotics, Intelligent Automation and Control (ICIRIAC 2024)</h1>
-                    <p className="font-medium tracking-[2px] ">28<sup>th</sup> February 2024</p>
+                    <p className="text-l font-medium tracking-[2px]">3<sup>rd</sup> edition of</p>
+                    <h1 className="italic text-[1.4rem] font-semibold w-[50rem] tracking-[1px] mb-[.5rem]">International Conference on Innovations in Robotics, Intelligent Automation and Control (ICIRIAC 2025)</h1>
+                    <p className="font-medium tracking-[2px] ">28<sup>th</sup> February 2025</p>
                 </div>
             </div>
         </div>

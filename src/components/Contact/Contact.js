@@ -12,7 +12,7 @@ const Number = (props) => {
 
 const Contact = () => {
 
-    const contacts = ['Dr. K. Ananthi, Asst. Prof./ Mechatronics Engineering','Dr. J. Indirapriyadharshini, Asst. Prof./ Mechatronics Engineering', 'Mr. S. Madhankumar, Asst. Prof./ Mechatronics Engineering']
+    const contacts = ['Dr. K. Ananthi, Asst. Prof./ Mechatronics Engineering','Dr. J. Indirapriyadharshini, Asst. Prof./ Mechatronics Engineering', 'Dr. S. Madhankumar, Asst. Prof./ Mechatronics Engineering']
     const numbers = ['+91 9486091362', '+91 8072083548', '+91 8344483282'] 
 
     return(
@@ -34,7 +34,7 @@ const Contact = () => {
             </div>
             <div className="flex items-center justify-center mt-10 items text-[1.1rem]">
                 <MailIcon className="w-8 h-8 mr-2"/>
-                <a className="pb-1 text-sky-500" href="mailto:iciriac24@gmail.com">iciriac24@gmail.com</a>
+                <a className="pb-1 text-sky-500" href="mailto:iciriac25@gmail.com">iciriac25@gmail.com</a>
             </div>
             
 
