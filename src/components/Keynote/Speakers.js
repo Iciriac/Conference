@@ -1,4 +1,3 @@
-import react from "react";
 import anand from '../../Resources/Anand_paul.jpeg';
 
 function Speaker1() {
@@ -16,13 +15,11 @@ function Speaker1() {
                 <span>{props.Location}.</span>
                 <img className="w-[400px] h-[400px]"src={props.image}></img> */}
                 <div>
-                    <img className="float-right object-cover w-[350px] h-[300px] border-black"src={anand}></img>
+                    <img className="float-right object-cover w-[350px] h-[300px] border-black"src={anand} alt='KeyNoteSpeaker-1'></img>
                     <div className="mt-[60px]">
                         <div className="font-semibold">Dr. Anand Paul,</div>
-                        <div>Director,</div>
-                        <div>Connected Computing and Media Processing Laboratory,</div>
-                        <div>Kyungpook National University,</div>
-                        <div>South Korea.</div>
+                        <div>Louisiana State University,</div>
+                        <div>United States.</div>
                     </div>
 
                 </div>
