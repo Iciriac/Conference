@@ -38,13 +38,13 @@ function Heading() {
                 </div>
                 <div className="bg-[#4b92cc]/[.55] flex flex-col items-center text-white pb-[1rem] pt-[.25rem] rounded-b-xl">
                     <p className="text-l font-medium tracking-[2px]">Department of Mechatronics Engineering</p>
-                    <p className="text-[.7rem] font-medium tracking-[.5px]">in association with</p>
+                    {/* <p className="text-[.7rem] font-medium tracking-[.5px]">in association with</p> */}
                     <div className="flex items-center">
-                        <p className="text-l font-medium tracking-[2px] uppercase mb-[.5rem]">Kyungpook National University, <span className="capitalize">South Korea</span> </p>
+                        {/* <p className="text-l font-medium tracking-[2px] uppercase mb-[.5rem]">Kyungpook National University, <span className="capitalize">South Korea</span> </p>
                         
                         <div>
                             <img className="h-[3rem] ml-[0] w-[3rem]" src={uniLogo} alt="logo" />
-                        </div>
+                        </div> */}
                     </div>
                     <p className="text-l font-medium tracking-[2px]">3<sup>rd</sup> edition of</p>
                     <h1 className="italic text-[1.4rem] font-semibold w-[50rem] tracking-[1px] mb-[.5rem]">International Conference on Innovations in Robotics, Intelligent Automation and Control (ICIRIAC 2025)</h1>
