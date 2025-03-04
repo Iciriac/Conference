@@ -48,7 +48,7 @@ function Heading() {
                     </div>
                     <p className="text-l font-medium tracking-[2px]">3<sup>rd</sup> edition of</p>
                     <h1 className="italic text-[1.4rem] font-semibold w-[50rem] tracking-[1px] mb-[.5rem]">International Conference on Innovations in Robotics, Intelligent Automation and Control (ICIRIAC 2025)</h1>
-                    <p className="font-medium tracking-[2px] ">28<sup>th</sup> March 2025</p>
+                    <p className="font-medium tracking-[2px] ">09<sup>th</sup> May 2025</p>
                 </div>
             </div>
         </div>
