@@ -26,7 +26,7 @@ const Dates = () => {
                 </div>
                 <div className="flex justify-between w-[24rem]">
                     <p>Conference Date:</p>
-                    <p>28.03.2025</p>
+                    <p>09.05.2025</p>
                 </div>
             </div>
             
